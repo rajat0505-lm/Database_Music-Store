@@ -11,13 +11,13 @@
 - Import Database Schema and Data.
 
 #Step 5
--Configure Your Project.
+- Configure Your Project.
 
 #Step 6
--Install Project Dependencies.
+- Install Project Dependencies.
 
 #Step 7
--Run the Project.
+- Run the Project.
 
 
 
